@@ -44,7 +44,7 @@ Here is what you will need to complete the assignment:
 
 Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup.
 
- ![image](https://user-images.githubusercontent.com/74424705/202819779-7e2c22c1-5df2-40bc-875d-332d1f7e5f8b.png)
+![image](https://user-images.githubusercontent.com/74424705/202819779-7e2c22c1-5df2-40bc-875d-332d1f7e5f8b.png)
 
 Here is the mockup illustration of the tablet version of the site. Your final result should look very close to this mockup. Note that in this view, the 3rd section takes up the entire row.
 
@@ -52,4 +52,4 @@ Here is the mockup illustration of the tablet version of the site. Your final re
 
 Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
 
- ![mobile](images/mobile.png)
+![image](https://user-images.githubusercontent.com/74424705/202819908-c0705b0c-37cc-42e1-9677-4de10cab87cb.png)
