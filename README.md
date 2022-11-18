@@ -1,5 +1,7 @@
 # Module 2 Coding Assignment
 
+Site live at https://html-css-and-javascript-by-coursera.github.io/Module-2-Coding-Assignment/
+
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 Woo-hoo! You get to do some coding! Exciting!
